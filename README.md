@@ -23,6 +23,13 @@ To build a machine learning model that can classify tweets as *positive* or *neg
 5. *Evaluation* – Accuracy score, classification report, and confusion matrix
 6. *Insights* – Most impactful words for each sentiment class
 
+##  Files in this Repository
+| File                             | Description                            |
+|----------------------------------|--------------------------------------- | 
+| Sentiment_Analysis.ipynb         | Main notebook with all code and output |
+| Sentiment_Analysis.pdf           | Exported notebook for viewing          |
+| README.md                        | Project summary                        |
+
 
 ##  Results
 - *Model Used*: Logistic Regression
