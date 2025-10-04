@@ -1,16 +1,4 @@
-# TASK 4   SENTIMENT-ANALYSIS
-
-*COMPANY*: CODTECH IT SOLUTIONS
-
-*NAME*: AHAMMED IRFAN TS
-
-*INTERN ID*: CT04DF2944
-
-*DOMAIN*: DATA ANALYTICS
-
-*DURATION*: 4 WEEKS
-
-*MENTOR*: NEELA SANTOSH
+##  SENTIMENT-ANALYSIS
 
 ## Objective
 To build a machine learning model that can classify tweets as *positive* or *negative* using NLP techniques.
